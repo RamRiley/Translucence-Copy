@@ -1,4 +1,4 @@
-# Translucence Theme - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url]
+# Translucence Theme
 #### A translucent/frosted glass Discord theme
 <hr>
 
